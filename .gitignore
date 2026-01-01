@@ -1,2 +1,2 @@
-# Ignore my post-processing 
+# Ignore the excel file containing duplicated output results - the duplicate exists for the purpose of crating easily navigatable tables, etc.
 *.xlsx
